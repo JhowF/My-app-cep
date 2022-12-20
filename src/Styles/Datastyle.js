@@ -11,9 +11,9 @@ div{
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
-    margin-top: 20px;
-    height: 50vh;
-    width: 70vh;
+    margin-top: 10px;
+    height: 45vh;
+    width: 65vh;
     background-color: white;
     
 
@@ -28,14 +28,7 @@ div{
 }
  
 
-
-    h1{
-        background-color: white;
-        height: 30px;
-
-      }
-
-      
+    
       
 
 .paddingclass{
@@ -43,7 +36,7 @@ div{
     flex-wrap: wrap;
     padding: 10px;
     margin: 2vh;
-    font-size: 2vh;
+    font-size: 1.7vh;
     background: white;
     border-top: none;
     border-left: none;

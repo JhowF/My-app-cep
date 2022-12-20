@@ -10,7 +10,7 @@ img{
     max-width: 7%;
     width: 100%;
     border-radius: 100%;
-    margin: 29px 46px;
+    margin: 19px 46px;
 }
 
 
@@ -20,6 +20,7 @@ export const Titulo = styled.div`
     justify-content: center;
     width: 100%;
     margin-right: 220px;
+    margin-top: -15px;
     
    
 
