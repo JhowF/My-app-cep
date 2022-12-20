@@ -12,8 +12,8 @@ div{
     flex-wrap: wrap;
     align-items: center;
     margin-top: 10px;
-    height: 50vh;
-    width: 75vh;
+    height: 57vh;
+    width: 80vh;
     background-color: white;
     
 
