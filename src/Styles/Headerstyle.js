@@ -19,7 +19,7 @@ export const Titulo = styled.div`
     display: flex;
     justify-content: center;
     width: 100%;
-    margin-right: 220px;
+    margin-right: 20vh;
     margin-top: -15px;
     
    
