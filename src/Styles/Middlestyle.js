@@ -10,14 +10,14 @@ margin-top: -30px;
 
 
 label{
-    font-size: 3vh;
+    font-size: 2vh;
     padding: 30px;
 }
 
 
 input{
     margin: 10px;
-    padding: 1vh 2vh;
+    padding: 0.5vh 1vh;
     font-size: 1.8em;
     text-align: center;
     border-radius: 40px;
@@ -28,7 +28,7 @@ input{
 
 input::placeholder{
     color: #c6ccc8;
-    font-size: 1em; 
+    font-size: 0.6em; 
     text-align: center;
 
 }

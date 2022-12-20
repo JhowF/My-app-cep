@@ -52,7 +52,7 @@ div{
 
 
 .paddingclass::placeholder{
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
 }
 

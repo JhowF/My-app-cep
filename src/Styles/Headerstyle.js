@@ -8,7 +8,7 @@ align-items: center;
 img{
     
     max-width: 7%;
-    width: 100%;
+    width: 70%;
     border-radius: 100%;
     margin: 19px 46px;
 }
