@@ -4,7 +4,7 @@ export const Divmid = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top: -30px;
+margin-top: -37px;
 
 
 
@@ -17,8 +17,9 @@ label{
 
 input{
     margin: 10px;
-    padding: 0.5vh 1vh;
-    font-size: 1.8em;
+    padding: 0.8vh 2vh;
+    font-size: 20px;
+    color: #666;
     text-align: center;
     border-radius: 40px;
     border: none;
@@ -43,7 +44,7 @@ button{
 }
 
 button:hover{
-    width: 140px;
+    width: 105px;
     background-color:#c6ccc8;
 }
 
