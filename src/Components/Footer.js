@@ -5,6 +5,8 @@ import Insta from "../img/instagram.png"
 import Twitter from "../img/twitter.png"
 
 export function Footer() {
+    
+    alert('Olá este site foi feito para treinar manipulação com API, funciona de maneira bem simples você digita um cep e clica em buscar e atraves da API Via cep você tera como retorno os dados do cep digitado.')
     return(
         <>
         <Divlinks>
