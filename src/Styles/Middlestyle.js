@@ -4,20 +4,20 @@ export const Divmid = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top: 1%;
+margin-top: 5px;
 
 
 
 
 label{
-    font-size: 4vh;
+    font-size: 3vh;
     padding: 30px;
 }
 
 
 input{
     margin: 10px;
-    padding: 2vh 3vh;
+    padding: 1vh 2vh;
     font-size: 1.8em;
     text-align: center;
     border-radius: 40px;
@@ -34,8 +34,8 @@ input::placeholder{
 }
 
 button{
-    width: 150px;
-    height: 70px;
+    width: 100px;
+    height: 40px;
     background-color: #fff;
     border: none;
     border-radius: 40px;

@@ -28,6 +28,7 @@ export function Middle() {
              setCity(data.localidade);
              setUf(data.uf);
     
+             
             
 
         });

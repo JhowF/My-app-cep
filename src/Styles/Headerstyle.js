@@ -33,8 +33,8 @@ div {
 h1{
     
     
-    font-size: 5vh;
-    padding: 15px;
+    font-size: 4vh;
+    padding: 0;
         
 }
 
